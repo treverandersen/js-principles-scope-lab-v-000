@@ -17,6 +17,4 @@ const leastFavoriteCustomer = 'not trever'
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'bob'
 }
-function attemptTwoFavoriteCustomers() {
-  
-}
+
